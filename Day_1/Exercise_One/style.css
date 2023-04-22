@@ -1,0 +1,18 @@
+* {box-sizing: border-box;}
+
+body {
+    margin: 0;
+}
+
+.parent {
+    background-color: #191976;
+    padding: 50px;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.child {
+    background-color: black;
+    height: 250px;
+    width: 100%;
+}
